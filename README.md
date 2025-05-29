@@ -1,6 +1,6 @@
 # WhatsAppChatAnalysis 📊💬
 ## Live Demo 🌐  
-Try the live demo here: [WhatsAppChatAnalysis Web App](https://whatsappchatanalysis22.streamlit.app/)
+Try the live demo here: https://whatsappchatanalysis22.streamlit.app/
 
 ## Project Overview 🎯  
 WhatsAppChatAnalysis is an interactive web application designed to analyze and visualize WhatsApp chat data in a comprehensive and user-friendly way. By uploading exported chat histories, users can uncover messaging patterns, popular topics, emoji usage, and overall communication trends within personal or group conversations. This project leverages data analytics and visualization techniques to provide meaningful insights into everyday digital communication.
