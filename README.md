@@ -18,6 +18,22 @@ WhatsApp chats contain rich information about social interactions, behaviors, an
 - 🔍 **Search & Filter**: Enables filtering by users or keywords to find specific messages or analyze subsets of the chat.  
 - 🎨 **Interactive Dashboard**: Built with Streamlit for easy use without coding, offering dynamic charts and user controls.
 
+## 📌 Insights & Use Cases
+🔍 Discover Communication Trends
+Understand when you chat the most and with whom.
+
+👥 Analyze Group Dynamics
+See who participates most and what they share.
+
+😀 Track Emotional Expression
+Emojis reveal tone, mood, and emotional states.
+
+🧠 Reflect on Digital Behavior
+Evaluate screen time and messaging intensity.
+
+📚 Research Applications
+Valuable for digital sociology, psychology, and behavioral studies.
+
 ## Technologies Used 🛠️  
 - **Python** (Pandas, NumPy, Regex) for data processing  
 - **Streamlit** for interactive web application development  
